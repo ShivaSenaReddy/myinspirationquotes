@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myinspirationquotes/static/css/main.b3c62e8b.css",
+    "main.js": "/myinspirationquotes/static/js/main.f0f7aaac.js",
+    "static/js/787.b080700c.chunk.js": "/myinspirationquotes/static/js/787.b080700c.chunk.js",
+    "static/media/logo.svg": "/myinspirationquotes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myinspirationquotes/index.html",
+    "main.b3c62e8b.css.map": "/myinspirationquotes/static/css/main.b3c62e8b.css.map",
+    "main.f0f7aaac.js.map": "/myinspirationquotes/static/js/main.f0f7aaac.js.map",
+    "787.b080700c.chunk.js.map": "/myinspirationquotes/static/js/787.b080700c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c62e8b.css",
+    "static/js/main.f0f7aaac.js"
+  ]
+}
