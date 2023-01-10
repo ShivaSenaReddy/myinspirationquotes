@@ -1,0 +1,15 @@
+.App
+{box-sizing:border-box;
+    margin:100px auto;
+    width:80%;
+}
+.quote--img {
+    width: 100%;
+    margin: 5px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+h1{
+    font-size:52px;
+    text-align:center;
+}
